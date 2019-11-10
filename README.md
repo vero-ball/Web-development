@@ -1,6 +1,6 @@
 # ABANCA  IT-Force
 
-![Abanca](./assets/abanca.png)
+![Abanca](./assets/abanca.png)  
 
 
 >Técnicas y herramientas avanzadas para crear soluciones web complejas y escalables.
@@ -9,9 +9,6 @@
 
 ## Impartido con la colaboración de :
 
-![Vitae](./assets/vitae.png)
-
-![Academia Binaria](./assets/academiabinaria.png)
-
+![Vitae](./assets/vitae.png) y ![Academia Binaria](./assets/academia-binaria.png)
 
 [Bloque I - Programación web](./I-web.md)
