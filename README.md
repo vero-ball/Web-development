@@ -21,9 +21,9 @@
 
 ## I.1 [Tecnología Web](https://github.com/abanca-ITforce/Web-development/blob/master/I-1%20Tecnologia%20web.md)
 
-## HTML
-## CSS
-## JavaScript
+### HTML
+### CSS
+### JavaScript
 
 >  **Práctica:** Crear el layout para el conversor de divisa en una determinada fecha.
 
