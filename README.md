@@ -19,32 +19,11 @@
 
 
 
-## I.1 Tecnología Web
+## I.1 [Tecnología Web](./I-1 Tecnologia web.md)
 
-### HTML
-
-- [Html can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
-
-- [8 Best Practices to Write Clean HTML Code](https://medium.com/@sergimarquez/8-best-practices-to-write-clean-html-code-1cd407e2a7ec)
-
-- [12 Principles For Clean HTML Code](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
-
-### CSS
-
-- [CSS cheat sheets](https://dev.to/ladybug/css-cheat-sheets-3ee0)
-
-- [The flexbox froggy](https://flexboxfroggy.com/#es)
-
-- [Flexbox - The Ultimate CSS Flex Cheat sheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
-
-- [Holy grail layout](https://flexbox.ninja/demos/holy-grail-layout/)
-
-### JS
-
-- [overapi](http://overapi.com/javascript)
-
-- [htmlcheatsheet](https://htmlcheatsheet.com/js/)
-
+## HTML
+## CSS
+## JavaScript
 
 >  **Práctica:** Crear el layout para el conversor de divisa en una determinada fecha.
 
