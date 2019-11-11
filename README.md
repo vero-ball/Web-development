@@ -19,7 +19,7 @@
 
 
 
-## I.1 [Tecnología Web](./I-1 Tecnologia web.md)
+## I.1 [Tecnología Web](https://github.com/abanca-ITforce/Web-development/blob/master/I-1%20Tecnologia%20web.md)
 
 ## HTML
 ## CSS
