@@ -1,0 +1,62 @@
+<html>
+
+<head>
+  <title>To do App</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700'
+        rel='stylesheet'
+        type='text/css'>
+  <link rel="stylesheet"
+        href="style.css"
+        type="text/css"
+        media="screen"
+        charset="utf-8">
+</head>
+
+<body>
+  <article class="container">
+    <header>
+      <label for="new-task">Add Item</label>
+      <input id="new-task"
+             type="text">
+      <button>Add task</button>
+    </header>
+
+    <section>
+      <h3>Thing to do</h3>
+      <ul id="incomplete-tasks">
+        <li>
+          <input type="checkbox">
+          <label>Pay Bills</label>
+          <input type="text">
+          <button class="edit">Edit</button>
+          <button class="delete">Delete</button>
+        </li>
+        <li class="editMode">
+          <input type="checkbox">
+          <label>Go Shopping</label>
+          <input type="text"
+                 value="Go Shopping">
+          <button class="edit">Edit</button>
+          <button class="delete">Delete</button>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Completed tasks</h3>
+      <ul id="completed-tasks">
+        <li>
+          <input type="checkbox"
+                 checked="">
+          <label>See the Doctor</label>
+          <input type="text">
+          <button class="edit">Edit</button>
+          <button class="delete">Delete</button>
+        </li>
+      </ul>
+    </section>
+  </article>
+  <script src="main.js"></script>
+</body>
+
+</html>
